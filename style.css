@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:navajowhite;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color:deeppink;
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+    text-align: center;
+}
+
+a {
+    color:deeppink;
+    font-weight: bold;
+}
+
+a:hover {
+    color:black;
+}
